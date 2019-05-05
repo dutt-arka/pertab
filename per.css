@@ -1,0 +1,13 @@
+a:link, a:visited{
+    color:#000000;
+    font-size:16;
+    text-decoration:none;
+}
+a:hover, a:active{
+    color:#ffffff;
+    text-decoration:underline;
+}
+.PT{
+    table-layout: fixed;
+    width: 1500px;
+}
